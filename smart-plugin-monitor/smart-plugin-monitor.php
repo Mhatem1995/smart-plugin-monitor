@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Smart Plugin Monitor
- * Plugin URI:  www.linkedin.com/in/marwan-hatem-713269211
+ * Support URI:  https://ko-fi.com/marwanhatem31477
  * Description: Tracks load time and PHP errors for each active plugin, storing logs in a custom database table.
  * Version:     1.0.0
  * Author:      Marwan hatem
