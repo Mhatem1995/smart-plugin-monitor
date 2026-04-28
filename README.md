@@ -1,8 +1,8 @@
-# Smart Plugin Monitor
+# Smart Performance Monitor
 
-**Advanced WordPress Plugin Intelligence, Diagnostics, Security, Performance, and Trust Platform.**
+**Advanced WordPress Intelligence, Diagnostics, Security, Performance, and Trust Platform.**
 
-Smart Plugin Monitor is a professional-grade diagnostics and intelligence platform designed for WordPress administrators and developers. It provides deep visibility into your WordPress ecosystem, offering real-time monitoring, security auditing, and performance profiling to ensure your site remains fast, secure, and stable.
+Smart Performance Monitor is a professional-grade diagnostics and intelligence platform designed for WordPress administrators and developers. It provides deep visibility into your WordPress ecosystem, offering real-time monitoring, security auditing, and performance profiling to ensure your site remains fast, secure, and stable.
 
 ---
 
@@ -10,39 +10,39 @@ Smart Plugin Monitor is a professional-grade diagnostics and intelligence platfo
 
 Managing a modern WordPress ecosystem is inherently complex. Site owners and developers frequently struggle with:
 
-*   **Slow Plugins:** Identifying which specific plugin is degrading page load times or consuming excessive server resources.
+*   **Slow Extensions:** Identifying which specific extension is degrading page load times or consuming excessive server resources.
 *   **Hidden PHP Errors:** Unseen warnings and fatal errors that silently break functionality or create vulnerabilities.
-*   **Security Risks:** Unmaintained, abandoned, or vulnerable plugins exposing the site to potential exploits.
-*   **Trust Issues:** Uncertainty regarding a plugin's origin, development standards, and code quality.
-*   **Update Degradation:** Performance regressions and unexpected conflicts introduced immediately after plugin updates.
+*   **Security Risks:** Unmaintained, abandoned, or vulnerable code exposing the site to potential exploits.
+*   **Trust Issues:** Uncertainty regarding an extension's origin, development standards, and code quality.
+*   **Update Degradation:** Performance regressions and unexpected conflicts introduced immediately after updates.
 
 ---
 
 ## ✨ Core Features
 
 ### Real-Time Monitoring Engine
-Actively tracks resource consumption, database queries, and execution times for every active plugin. Identifies performance bottlenecks as they happen, preventing systemic slowdowns.
+Actively tracks resource consumption, database queries, and execution times for every active extension. Identifies performance bottlenecks as they happen, preventing systemic slowdowns.
 
 ### Performance Diagnostics
-Deep-dive profiling for individual plugins. Analyzes memory footprint and script execution to provide actionable intelligence on resource utilization.
+Deep-dive profiling for individual extensions. Analyzes memory footprint and script execution to provide actionable intelligence on resource utilization.
 
 ### Security Scanner
-Proactively audits installed plugins against known vulnerability databases and flags high-risk code patterns. Ensures your plugin stack adheres to strict security standards.
+Proactively audits installed extensions against known vulnerability databases and flags high-risk code patterns. Ensures your stack adheres to strict security standards.
 
 ### Trust Verification
-Evaluates plugins based on developer reputation, update frequency, repository standing, and code integrity. Establishes a trust score to help you make informed decisions about your technology stack.
+Evaluates code based on developer reputation, update frequency, repository standing, and code integrity. Establishes a trust score to help you make informed decisions about your technology stack.
 
 ### Historical Analytics
-Maintains a robust ledger of plugin performance and security metrics over time. Visualizes trends to help you understand the long-term impact of specific plugins and updates.
+Maintains a robust ledger of performance and security metrics over time. Visualizes trends to help you understand the long-term impact of specific extensions and updates.
 
 ### Action Layer (Scan / Safe Mode / Reporting)
-Provides immediate remediation tools. Execute targeted scans, isolate problematic plugins using Safe Mode, and generate comprehensive diagnostics reports for stakeholders or development teams.
+Provides immediate remediation tools. Execute targeted scans, isolate problematic extensions using Safe Mode, and generate comprehensive diagnostics reports for stakeholders or development teams.
 
 ---
 
 ## 🏗️ Technical Architecture
 
-Smart Plugin Monitor is built on a robust, scalable foundation designed for minimal overhead:
+Smart Performance Monitor is built on a robust, scalable foundation designed for minimal overhead:
 
 *   **Modular OOP Structure:** Clean, extensible Object-Oriented PHP architecture ensuring maintainability and easy integration.
 *   **Monitoring Engine:** Lightweight hooks into the WordPress core to gather metrics without degrading performance.
@@ -54,17 +54,17 @@ Smart Plugin Monitor is built on a robust, scalable foundation designed for mini
 
 ## 🚀 Installation
 
-1.  **Download:** Download the latest release of `smart-plugin-monitor`.
-2.  **Upload:** Upload the `smart-plugin-monitor` folder to your `/wp-content/plugins/` directory.
-3.  **Activate:** Navigate to the **Plugins** menu in WordPress and activate "Smart Plugin Monitor".
-4.  **Access:** Locate the new **Smart Monitor** dashboard in your WordPress admin menu to begin profiling your plugins.
+1.  **Download:** Download the latest release of `smart-performance-monitor`.
+2.  **Upload:** Upload the `smart-performance-monitor` folder to your `/wp-content/plugins/` directory.
+3.  **Activate:** Navigate to the **Plugins** menu in WordPress and activate "Smart Performance Monitor".
+4.  **Access:** Locate the new **Smart Monitor** dashboard in your WordPress admin menu to begin profiling your site.
 
 ---
 
 ## 📁 Folder Structure
 
 ```text
-smart-plugin-monitor/
+smart-performance-monitor/
 ├── assets/                  # CSS, JS, and image assets
 │   ├── css/
 │   └── js/
@@ -95,14 +95,13 @@ smart-plugin-monitor/
     *Detailed vulnerability reporting and security recommendations.*
 *   ![Historical Analytics](https://github.com/Mhatem1995/smart-plugin-monitor/blob/main/smart-plugin-monitor/assets/screenshots/8.png)
     *Long-term performance trends and update impact visualization.*
-
 ---
 
 ## 🗺️ Roadmap
 
-We are continuously evolving Smart Plugin Monitor to provide deeper intelligence. Upcoming features include:
+We are continuously evolving Smart Performance Monitor to provide deeper intelligence. Upcoming features include:
 
-*   **AI Predictive Diagnostics:** Machine learning models to anticipate plugin conflicts and performance degradation before they impact users.
+*   **AI Predictive Diagnostics:** Machine learning models to anticipate conflicts and performance degradation before they impact users.
 *   **SaaS Dashboard Integration:** Centralized management for agencies and administrators handling multiple WordPress installations.
 *   **Premium Reports:** Automated, white-labeled PDF reporting for clients and stakeholders.
 
